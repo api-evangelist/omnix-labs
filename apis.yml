@@ -1,7 +1,12 @@
 aid: omnix-labs
 name: omniX labs
-description: omniX labs is a company surfaced as a portfolio company of techstars and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: omniX labs is a New York-based AI machine-vision analytics company (owned by EverWash)
+  serving car wash, oil-change/lube, and related quick-service automotive businesses. Its platform
+  ingests real-time video of the physical business, applies computer vision and AI to synthesize
+  customer interactions, and returns operational insights that help operators boost throughput,
+  optimize staffing, prevent loss, predict demand, and grow revenue. omniX labs was surfaced as a
+  Techstars portfolio company. It operates a customer web portal but publishes no public developer
+  API, SDK, or technical documentation surface at this time.
 url: https://raw.githubusercontent.com/api-evangelist/omnix-labs/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +14,30 @@ x-backed-by:
 - techstars
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
+image: https://omnixlabs.com/img/omniX_Logo_RBG_White.png
 tags:
 - Company
+- Machine Vision
+- Computer Vision
+- Artificial Intelligence
+- Video Analytics
+- Car Wash
+- Automotive Services
+- Business Intelligence
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +47,20 @@ maintainers:
 common:
 - type: Website
   url: https://omnixlabs.com/
+- type: Blog
+  url: https://omnixlabs.com/blog/
+- type: Login
+  url: https://portal.omnixlabs.com/login
+- type: Support
+  url: mailto:info@omnixlabs.com
+- type: TermsOfService
+  url: https://omnixlabs.com/terms
+- type: PrivacyPolicy
+  url: https://omnixlabs.com/privacy
+- type: DomainSecurity
+  url: security/omnix-labs-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
