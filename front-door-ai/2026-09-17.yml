@@ -1,0 +1,26 @@
+# Front Door AI Index — omnix-labs — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: omnix-labs
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: omnixlabs.com
+  final_host: omnixlabs.com
+  ownership: own
+  owner: omnix-labs
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 7
+  host_score: 7
+  density: 10.57
+  words: 662
+  tiers:
+    agentic: 0
+    core: 7
+    model: 0
+  ambiguous: 0
+  top_terms:
+    AI: 6
+    deep learning: 1
