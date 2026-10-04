@@ -43,7 +43,7 @@ image: https://omnixlabs.com/img/omniX_Logo_RBG_White.png
 tags:
 - Company
 - Machine Vision
-- Computer-Vision
+- Computer Vision
 - Artificial Intelligence
 - Video Analytics
 - Car Wash
@@ -58,6 +58,7 @@ tags_raw:
 - Car Wash
 - Automotive Services
 - Business Intelligence
+- Computer-Vision
 apis: []
 maintainers:
 - FN: Kin Lane
